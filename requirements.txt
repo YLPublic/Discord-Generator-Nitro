@@ -1,0 +1,4 @@
+-m pip install requests
+-m pip install discord_webhook
+-m pip install colored
+-m pip install numpy
